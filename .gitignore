@@ -14,6 +14,8 @@ python/cpy311-pypack1/pypack1
 python/cpy311-pypack2/pypack2
 *.patch
 *.zip
+*.dot
+*.svg
 
 # Prerequisites
 *.d
